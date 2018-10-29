@@ -3,8 +3,8 @@ require('babel-polyfill');
 
 var HDWalletProvider = require("truffle-hdwallet-provider");
 
-var infura_apikey = "9fecce108d964a72ac4fb442bbad77de";
-var mnemonic = "wet naive find train seminar afford address disease usual eight elite foot";
+var infura_apikey = "";
+var mnemonic = "";
 
 module.exports = {
   networks: {
